@@ -1,4 +1,4 @@
-# demoCheck
+# Elkjop "Demovare" monitor
 
 A python script that monitors Elkjøp products and sends you a message on Facebook if the desired product is sold with a reduced price.
 

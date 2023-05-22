@@ -1,4 +1,4 @@
 tqdm==4.11.2
-requests==2.21.0
+requests==2.31.0
 beautifulsoup4==4.7.1
 fbchat==1.6.4
